@@ -1,4 +1,4 @@
-package com.dimd12.chess;
+package com.dimd12.chess.scenes;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

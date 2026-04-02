@@ -1,4 +1,4 @@
-package com.dimd12.chess;
+package com.dimd12.chess.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

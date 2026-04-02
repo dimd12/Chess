@@ -1,5 +1,6 @@
 package com.dimd12.chess;
 
+import com.dimd12.chess.scenes.HelloApplication;
 import javafx.application.Application;
 
 public class Launcher {
