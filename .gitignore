@@ -8,6 +8,8 @@
 *.iws
 *.iml
 *.ipr
+*.log
+*.class
 
 ### Maven ###
 .mvn/wrapper/maven-wrapper.jar
